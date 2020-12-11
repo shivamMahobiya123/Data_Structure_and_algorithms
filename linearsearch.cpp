@@ -3,14 +3,19 @@ using namespace std;
 int main()
 {
  int n ,array[100],pos,k; 
-  for(int i=0;i<n-1;i++)
+ n=0,k=0,pos=0;
+ cout<<"Enter length of array";
+ cin>>n;
+ cout<<"Enter array";
+  for(int i=0;i<n;i++)
   {
     cin>>array[i];
   }
+ cout<<"Enter value to find";
   cin>>k;
-  for(int i=0;i<n-1;i++)
+  for(int i=0;i<n;i++)
   {
-    if(array[i]==k)
+    if(k==array[i])
     { 
       pos=i;
       break;
