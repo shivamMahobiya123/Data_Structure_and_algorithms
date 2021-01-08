@@ -1,5 +1,6 @@
-#include<iostream.h>
+#include<iostream>
 #include<conio.h>
+using namespace std;
 int main()
 {
  //singly linked list
