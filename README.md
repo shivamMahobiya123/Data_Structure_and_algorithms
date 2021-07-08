@@ -1,7 +1,8 @@
 #algorithms #DataStructure
 Various c++ file contains codes of data structure and algorithms like linked list ,array ,pointers, sorting algorithms etc.
 <html>
-  <h4 style="color:dodgerblue">Malloc--</h4>
+
+  <h4 class="bg-primary">Malloc--</h4>
   <p>It is used to create dynamic array.It creates single large sized block with specified size.Returns pointer void type can be cast into pointer of any form</p>
   <h4 style="color:dodgerblue">Realloc--</h4>
   <p style="color:yellow">I learnt about how to dynamically increase preassigned array using realloc() function</p>
@@ -12,4 +13,8 @@ Various c++ file contains codes of data structure and algorithms like linked lis
     1.At the beginning
     2.At the end
     3.After specified number.
+  
+  <h3>LinedList Delete file </h3>
+  <p>Firstly it push the data at the front and then delete using function of linkedlist delete..
+  
 </html>
