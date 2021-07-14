@@ -17,4 +17,7 @@ Various c++ file contains codes of data structure and algorithms like linked lis
   <h3>LinedList Delete file </h3>
   <p>Firstly it push the data at the front and then delete using function of linkedlist delete..
   
+  <h3>Operator Overload </h3>
+  <p>A method in which operator can be overloaded and can be used as string to concatinate the other two string</p>
+  
 </html>
